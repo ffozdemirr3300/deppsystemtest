@@ -1,0 +1,42 @@
+{
+    "restricted_pages": {
+        "ayarlar.php": [],
+        "permissions.php": []
+    },
+    "roles": {
+        "superadmin": {
+            "permissions": [
+                "manage_content",
+                "manage_users",
+                "manage_settings"
+            ]
+        },
+        "owner": {
+            "permissions": [
+                "manage_content",
+                "manage_settings"
+            ]
+        },
+        "Uye": {
+            "permissions": []
+        }
+    },
+    "users": {
+        "76561198243975844": "owner",
+        "76561198284203365": "owner",
+        "76561198851809490": "Uye",
+        "76561198833890657": "Uye",
+        "76561198331680627": "Uye",
+        "76561198970926867": "Uye",
+        "76561198301461221": "Uye",
+        "76561199646766888": "Uye",
+        "76561198273465046": "Uye",
+        "76561198965288811": "Uye",
+        "76561199001482445": "Uye",
+        "76561199436331943": "Uye",
+        "76561199251081097": "Uye",
+        "76561199198780858": "Uye",
+        "76561199073738304": "Uye",
+        "76561199070568326": "Uye"
+    }
+}
