@@ -1,0 +1,152 @@
+[25-Apr-2025 22:23:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[25-Apr-2025 22:23:15 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:23:16 Europe/Istanbul] Nisan 2025 teslimatları: [{"id":17722107,"driver_name":"DepperitoR","driven_distance_km":9,"planned_distance_km":9},{"id":17721992,"driver_name":"DepperitoR","driven_distance_km":5,"planned_distance_km":5}]
+[26-Apr-2025 01:23:16 Europe/Istanbul] Toplam çekilen teslimat sayısı: 20
+[26-Apr-2025 01:23:16 Europe/Istanbul] Geçerli ay (2025-04) teslimat sayısı: 2
+[26-Apr-2025 01:23:16 Europe/Istanbul] Driver stats: {"DepperitoR":{"id":32839,"deliveries":2,"distance":14,"income":1346}}
+[26-Apr-2025 01:23:16 Europe/Istanbul] Lider sürücü seçimi: Ad: DepperitoR, Mesafe: 14, Teslimat: 2
+[25-Apr-2025 22:23:22 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=1909801, steamID64=76561198243975844
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=3107806, steamID64=76561198284203365
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=2637171, steamID64=76561198851809490
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=2723093, steamID64=76561198833890657
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=2072537, steamID64=76561198331680627
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=3535722, steamID64=76561198970926867
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=5006602, steamID64=76561198301461221
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=5403590, steamID64=76561199646766888
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=1555763, steamID64=76561198273465046
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=5450621, steamID64=76561198965288811
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=4866528, steamID64=76561199001482445
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=5027895, steamID64=76561199436331943
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=5116851, steamID64=76561199251081097
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=5124271, steamID64=76561199198780858
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=4131273, steamID64=76561199073738304
+[26-Apr-2025 01:23:23 Europe/Istanbul] members.php - SteamID64 alındı: user_id=3909495, steamID64=76561199070568326
+[25-Apr-2025 22:23:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[25-Apr-2025 22:23:29 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:23:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[25-Apr-2025 22:23:32 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:23:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[25-Apr-2025 22:23:39 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:23:47 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[26-Apr-2025 01:23:47 Europe/Istanbul] PHP Warning:  Undefined array key "afk" in /home/kap192ustacom/sevkiyatbul.com.tr/57627/server_status.php on line 496
+[25-Apr-2025 22:23:59 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:23:59 UTC] announcements.php - Sayfa yüklendi
+[25-Apr-2025 22:24:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[25-Apr-2025 22:24:11 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[25-Apr-2025 22:24:18 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[25-Apr-2025 22:24:18 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:25 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:25 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:25 Europe/Istanbul] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:24:25 Europe/Istanbul] permissions.php - Sayfa yüklendi
+[25-Apr-2025 22:24:33 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:33 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:33 Europe/Istanbul] permissions.php - POST isteği alındı: {
+    "restricted_pages": {
+        "ayarlar.php": "on",
+        "permissions.php": "on"
+    },
+    "update_restricted_pages": ""
+}
+[26-Apr-2025 01:24:33 Europe/Istanbul] permissions.php - Kısıtlı sayfa güncellendi: ayarlar.php, Gerekli=[]
+[26-Apr-2025 01:24:33 Europe/Istanbul] permissions.php - Kısıtlı sayfa güncellendi: permissions.php, Gerekli=[]
+[26-Apr-2025 01:24:33 Europe/Istanbul] permissions.php - Kısıtlı sayfalar kaydedildi: /home/kap192ustacom/sevkiyatbul.com.tr/57627/json/permissions.json
+[25-Apr-2025 22:24:34 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:34 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:34 Europe/Istanbul] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:24:34 Europe/Istanbul] permissions.php - Sayfa yüklendi
+[25-Apr-2025 22:24:41 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:41 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:41 Europe/Istanbul] permissions.php - POST isteği alındı: {
+    "role_permissions_owner": [
+        "manage_content",
+        "manage_settings"
+    ],
+    "role_to_delete": "Uye",
+    "update_role_permissions": ""
+}
+[26-Apr-2025 01:24:41 Europe/Istanbul] permissions.php - Rol güncellendi: owner, Yetkiler: ["manage_content","manage_settings"]
+[26-Apr-2025 01:24:41 Europe/Istanbul] permissions.php - Rol güncellendi: Uye, Yetkiler: []
+[26-Apr-2025 01:24:41 Europe/Istanbul] permissions.php - Rol yetkileri kaydedildi: /home/kap192ustacom/sevkiyatbul.com.tr/57627/json/permissions.json
+[25-Apr-2025 22:24:41 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:41 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:42 Europe/Istanbul] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:24:42 Europe/Istanbul] permissions.php - Sayfa yüklendi
+[25-Apr-2025 22:24:49 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:49 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:50 Europe/Istanbul] permissions.php - POST isteği alındı: {
+    "role_permissions_owner": [
+        "manage_content",
+        "manage_settings"
+    ],
+    "role_to_delete": "Uye",
+    "update_role_permissions": ""
+}
+[26-Apr-2025 01:24:50 Europe/Istanbul] permissions.php - Rol güncellendi: owner, Yetkiler: ["manage_content","manage_settings"]
+[26-Apr-2025 01:24:50 Europe/Istanbul] permissions.php - Rol güncellendi: Uye, Yetkiler: []
+[26-Apr-2025 01:24:50 Europe/Istanbul] permissions.php - Rol yetkileri kaydedildi: /home/kap192ustacom/sevkiyatbul.com.tr/57627/json/permissions.json
+[25-Apr-2025 22:24:50 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:50 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:50 Europe/Istanbul] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:24:50 Europe/Istanbul] permissions.php - Sayfa yüklendi
+[25-Apr-2025 22:24:53 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:53 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - POST isteği alındı: {
+    "user_role_76561198243975844": "owner",
+    "user_role_76561198284203365": "owner",
+    "user_role_76561198851809490": "Uye",
+    "user_role_76561198833890657": "Uye",
+    "user_role_76561198331680627": "Uye",
+    "user_role_76561198970926867": "Uye",
+    "user_role_76561198301461221": "Uye",
+    "user_role_76561199646766888": "Uye",
+    "user_role_76561198273465046": "Uye",
+    "user_role_76561198965288811": "Uye",
+    "user_role_76561199001482445": "Uye",
+    "user_role_76561199436331943": "Uye",
+    "user_role_76561199251081097": "Uye",
+    "user_role_76561199198780858": "Uye",
+    "user_role_76561199073738304": "Uye",
+    "user_role_76561199070568326": "Uye",
+    "update_user_roles": ""
+}
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198243975844, yeni_rol=owner
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198284203365, yeni_rol=owner
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198851809490, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198833890657, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198331680627, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198970926867, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198301461221, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561199646766888, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198273465046, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561198965288811, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561199001482445, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561199436331943, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561199251081097, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561199198780858, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561199073738304, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolü güncellendi: steam_id=76561199070568326, yeni_rol=Uye
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Kullanıcı rolleri kaydedildi: /home/kap192ustacom/sevkiyatbul.com.tr/57627/json/permissions.json
+[25-Apr-2025 22:24:54 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[25-Apr-2025 22:24:54 UTC] permissions.php - Sayfa yüklendi
+[26-Apr-2025 01:24:54 Europe/Istanbul] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 01:24:54 Europe/Istanbul] permissions.php - Sayfa yüklendi
+[26-Apr-2025 08:53:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/kap192ustacom/sevkiyatbul.com.tr/auth.php on line 2
+[26-Apr-2025 08:53:39 UTC] auth.php - Superadmin oturumu: Steam ID 76561198243975844
+[26-Apr-2025 11:53:40 Europe/Istanbul] Nisan 2025 teslimatları: [{"id":17722107,"driver_name":"DepperitoR","driven_distance_km":9,"planned_distance_km":9},{"id":17721992,"driver_name":"DepperitoR","driven_distance_km":5,"planned_distance_km":5}]
+[26-Apr-2025 11:53:40 Europe/Istanbul] Toplam çekilen teslimat sayısı: 20
+[26-Apr-2025 11:53:40 Europe/Istanbul] Geçerli ay (2025-04) teslimat sayısı: 2
+[26-Apr-2025 11:53:40 Europe/Istanbul] Driver stats: {"DepperitoR":{"id":32839,"deliveries":2,"distance":14,"income":1346}}
+[26-Apr-2025 11:53:40 Europe/Istanbul] Lider sürücü seçimi: Ad: DepperitoR, Mesafe: 14, Teslimat: 2
