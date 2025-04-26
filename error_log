@@ -1,0 +1,404 @@
+[25-Apr-2025 16:53:56 UTC] index.php - Oluşturulan State: dd391fabeb55db0602bfbd149468e017
+[25-Apr-2025 16:53:56 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=dd391fabeb55db0602bfbd149468e017
+[25-Apr-2025 16:53:59 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T16:53:59Z5vpa57N2YNd6x2G37nbeersxkR0=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => wa0dBRTuKSN0nqtaautCSnPY3vQ=
+)
+
+[25-Apr-2025 16:53:59 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 16:53:59 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 16:54:00 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 16:54:00 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 16:54:00 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 16:54:00 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 16:54:49 UTC] index.php - Oluşturulan State: a04c02c28ff150c33f384d847eaa7b8e
+[25-Apr-2025 16:54:49 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=a04c02c28ff150c33f384d847eaa7b8e
+[25-Apr-2025 16:54:50 UTC] index.php - Oluşturulan State: 7bde3ad335ca34c3c352b483d935a125
+[25-Apr-2025 16:54:50 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=7bde3ad335ca34c3c352b483d935a125
+[25-Apr-2025 16:54:52 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T16:54:52ZJseNw20A2QllZlrPSqBa5q3XHDQ=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => ahBx8QOnnF6ePql/+uYInZdl39U=
+)
+
+[25-Apr-2025 16:54:53 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 16:54:53 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 16:54:58 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 16:54:58 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 16:54:58 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 16:54:58 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 16:56:23 UTC] index.php - Oluşturulan State: 9ad77d10a6a00c081866c1b8cffec5ba
+[25-Apr-2025 16:56:23 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=9ad77d10a6a00c081866c1b8cffec5ba
+[25-Apr-2025 17:04:36 UTC] index.php - Oluşturulan State: 25e17ed98e0497f74fcddea635b3ec86
+[25-Apr-2025 17:04:36 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=25e17ed98e0497f74fcddea635b3ec86
+[25-Apr-2025 17:04:39 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T17:04:39ZHMPvvfuXOhYnaT9igjsHtbxWAbw=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => 7BwdiINSoEh0ZnfcJt6zkhkvPaE=
+)
+
+[25-Apr-2025 17:04:39 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 17:04:39 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 17:04:40 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 17:04:40 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 17:04:40 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 17:04:40 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 17:18:36 UTC] index.php - Oluşturulan State: 8d599cf6d3fd37e215a987aa34da895d
+[25-Apr-2025 17:18:36 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=8d599cf6d3fd37e215a987aa34da895d
+[25-Apr-2025 17:19:10 UTC] index.php - Oluşturulan State: 6e4ee7a07e9c6b0c19b49e4443f92784
+[25-Apr-2025 17:19:10 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=6e4ee7a07e9c6b0c19b49e4443f92784
+[25-Apr-2025 17:19:10 UTC] index.php - Oluşturulan State: 49edd49932aff9d60cef20c44cd1bbd9
+[25-Apr-2025 17:19:10 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=49edd49932aff9d60cef20c44cd1bbd9
+[25-Apr-2025 17:19:10 UTC] index.php - Oluşturulan State: c9413b779622b761ed01694a4344f0bb
+[25-Apr-2025 17:19:10 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=c9413b779622b761ed01694a4344f0bb
+[25-Apr-2025 17:19:18 UTC] index.php - Oluşturulan State: 3d7b44ea125089c192a59ca82e3607be
+[25-Apr-2025 17:19:18 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=3d7b44ea125089c192a59ca82e3607be
+[25-Apr-2025 17:19:40 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T17:19:39ZlnoKsGqc+TzUW9WDaYShD2y+7ZY=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => ttq/xtwaHQc04yaxeGgVmfFqMdU=
+)
+
+[25-Apr-2025 17:19:40 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 17:19:40 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 17:19:41 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 17:19:41 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 17:19:41 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 17:19:41 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 17:22:24 UTC] index.php - Oluşturulan State: a22e265f11fb22fe962d8d39362580a2
+[25-Apr-2025 17:22:24 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=a22e265f11fb22fe962d8d39362580a2
+[25-Apr-2025 17:22:27 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T17:22:27ZEb/FkrlXp6lvRRjX5RMih3xj3Wc=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => nZR6yYLTOOcDBmw3kzjiDPbcmSk=
+)
+
+[25-Apr-2025 17:22:28 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 17:22:28 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 17:22:29 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 17:22:29 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 17:22:29 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 17:22:29 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 18:47:25 UTC] index.php - Oluşturulan State: a4a2689b3bd3f2640dbab1a19504de1e
+[25-Apr-2025 18:47:25 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=a4a2689b3bd3f2640dbab1a19504de1e
+[25-Apr-2025 18:47:28 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T18:47:28ZZP3NvRVDpSPgiMDRZEcMSpXYGcs=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => Q99vbp0x6ruJaDM/+WqbYsnGp5w=
+)
+
+[25-Apr-2025 18:47:28 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 18:47:28 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 18:47:29 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 18:47:29 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 18:47:29 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 18:47:29 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 19:44:13 UTC] index.php - Oluşturulan State: bbb192732c6d9696a138c804137c18f7
+[25-Apr-2025 19:44:13 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=bbb192732c6d9696a138c804137c18f7
+[25-Apr-2025 19:56:14 UTC] index.php - Oluşturulan State: 7a89364f9e04095c66575928dd25476d
+[25-Apr-2025 19:56:14 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=7a89364f9e04095c66575928dd25476d
+[25-Apr-2025 21:59:44 UTC] index.php - Oluşturulan State: c14ceed30e7b087dddf52c86a6a97ee1
+[25-Apr-2025 21:59:44 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=c14ceed30e7b087dddf52c86a6a97ee1
+[25-Apr-2025 21:59:47 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T21:59:47ZFPA1o67AWclu7vRrDjGj64RQf/k=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => MLOUhh/RJYrWOnC+OxSdFTvC/Qg=
+)
+
+[25-Apr-2025 21:59:47 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 21:59:47 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 21:59:48 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 21:59:48 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 21:59:48 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 21:59:48 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => 
+    [trucky_company_id] => 
+)
+
+[25-Apr-2025 22:00:12 UTC] index.php - Oluşturulan State: b65c145e05b1500a7d30c6a659544754
+[25-Apr-2025 22:00:12 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=b65c145e05b1500a7d30c6a659544754
+[25-Apr-2025 22:08:39 UTC] index.php - Oluşturulan State: 770453cbdce543fa55770ae78e64bd9f
+[25-Apr-2025 22:08:39 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=770453cbdce543fa55770ae78e64bd9f
+[25-Apr-2025 22:08:42 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T22:08:42ZSIB2Q8sh/+T8qHwSEvkoNmxYcHg=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => h+aVtH9jAvgfOAqe8jfl6RDYIXo=
+)
+
+[25-Apr-2025 22:08:43 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 22:08:43 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 22:08:43 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 22:08:43 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 22:08:43 UTC] callback.php - settings.json var mı: Hayır
+[25-Apr-2025 22:08:43 UTC] callback.php - settings.json dosyası bulunamadı: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 22:08:43 UTC] index.php - Oluşturulan State: 20f05a8b41e57e9eb46d6920742ec508
+[25-Apr-2025 22:08:43 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=20f05a8b41e57e9eb46d6920742ec508
+[25-Apr-2025 22:08:54 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T22:08:54Z5FYmSlrOGIQOPvEB3go88aaHicI=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => hZd7UgDPtIvAnn5Hce5LWq1Wm+U=
+)
+
+[25-Apr-2025 22:08:54 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 22:08:54 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 22:08:54 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 22:08:54 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 22:08:54 UTC] callback.php - settings.json var mı: Hayır
+[25-Apr-2025 22:08:54 UTC] callback.php - settings.json dosyası bulunamadı: /home/kap192ustacom/sevkiyatbul.com.tr/57627/settings.json
+[25-Apr-2025 22:08:55 UTC] index.php - Oluşturulan State: ad045359b8ddfbb9fb02d1601e35fd4c
+[25-Apr-2025 22:08:55 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=ad045359b8ddfbb9fb02d1601e35fd4c
+[25-Apr-2025 22:10:15 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T22:10:15ZsQz+gJkdOimK2mIY+PScWZBYlvA=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => q/wkkUafS3qgWH8TjFa0/PdCxp0=
+)
+
+[25-Apr-2025 22:10:16 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 22:10:16 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 22:10:16 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 22:10:16 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/json/settings.json
+[25-Apr-2025 22:10:16 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 22:10:16 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 22:22:55 UTC] index.php - Oluşturulan State: fef32b7ddee974668c16cf624e39f960
+[25-Apr-2025 22:22:55 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=fef32b7ddee974668c16cf624e39f960
+[25-Apr-2025 22:22:58 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-25T22:22:58ZPWEvhe9SNgFoPz3yV1uKb5gwFzA=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => BGQhdbZz/bfTymcRxFDyaIobFVc=
+)
+
+[25-Apr-2025 22:22:59 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[25-Apr-2025 22:22:59 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[25-Apr-2025 22:22:59 UTC] callback.php - Çekilen VTC ID: 57627
+[25-Apr-2025 22:22:59 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/json/settings.json
+[25-Apr-2025 22:22:59 UTC] callback.php - settings.json var mı: Evet
+[25-Apr-2025 22:22:59 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[25-Apr-2025 22:33:20 UTC] index.php - Oluşturulan State: ea0f53e14bf5184328742752c6dcd9ad
+[25-Apr-2025 22:33:20 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=ea0f53e14bf5184328742752c6dcd9ad
+[26-Apr-2025 02:56:28 UTC] index.php - Oluşturulan State: f3e6fd931b8e89e455f5efeae81fb5a3
+[26-Apr-2025 02:56:28 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=f3e6fd931b8e89e455f5efeae81fb5a3
+[26-Apr-2025 02:56:30 UTC] index.php - Oluşturulan State: 2123dbefe423a750af2021bac298533d
+[26-Apr-2025 02:56:30 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=2123dbefe423a750af2021bac298533d
+[26-Apr-2025 05:29:09 UTC] index.php - Oluşturulan State: 5f3b8e154cf30d9e52600c92b4db5902
+[26-Apr-2025 05:29:09 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=5f3b8e154cf30d9e52600c92b4db5902
+[26-Apr-2025 05:29:15 UTC] index.php - Oluşturulan State: b2de72501b80abfb4ddf4b7c23d90387
+[26-Apr-2025 05:29:15 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=b2de72501b80abfb4ddf4b7c23d90387
+[26-Apr-2025 06:09:46 UTC] index.php - Oluşturulan State: 465128135bd3989c5367b815681960ac
+[26-Apr-2025 06:09:46 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=465128135bd3989c5367b815681960ac
+[26-Apr-2025 06:42:09 UTC] index.php - Oluşturulan State: 4886a7b4ec12c297c79288988b91ce8f
+[26-Apr-2025 06:42:09 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=4886a7b4ec12c297c79288988b91ce8f
+[26-Apr-2025 07:30:20 UTC] index.php - Oluşturulan State: 639db845349eb92959c8c3af4744103c
+[26-Apr-2025 07:30:20 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=639db845349eb92959c8c3af4744103c
+[26-Apr-2025 08:42:06 UTC] index.php - Oluşturulan State: 46f16e229fb3a5d441f00f33c311088a
+[26-Apr-2025 08:42:06 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=46f16e229fb3a5d441f00f33c311088a
+[26-Apr-2025 08:52:58 UTC] index.php - Oluşturulan State: 33c94096fb1739497b639786bf89cdb1
+[26-Apr-2025 08:52:58 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=33c94096fb1739497b639786bf89cdb1
+[26-Apr-2025 08:53:38 UTC] callback.php - Gelen GET Parametreleri: Array
+(
+    [openid_ns] => http://specs.openid.net/auth/2.0
+    [openid_mode] => id_res
+    [openid_op_endpoint] => https://steamcommunity.com/openid/login
+    [openid_claimed_id] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_identity] => https://steamcommunity.com/openid/id/76561198243975844
+    [openid_return_to] => https://sevkiyatbul.com.tr/callback.php
+    [openid_response_nonce] => 2025-04-26T08:53:38ZSJl2TXXwtXj2j3sOVuqVrH/GTnQ=
+    [openid_assoc_handle] => 1234567890
+    [openid_signed] => signed,op_endpoint,claimed_id,identity,return_to,response_nonce,assoc_handle
+    [openid_sig] => VLzbKdLdAFg3HzU0uMRD/uuIxZo=
+)
+
+[26-Apr-2025 08:53:39 UTC] callback.php - openid_claimed_id: https://steamcommunity.com/openid/id/76561198243975844
+[26-Apr-2025 08:53:39 UTC] callback.php - Çıkarılan Steam ID: 76561198243975844
+[26-Apr-2025 08:53:39 UTC] callback.php - Çekilen VTC ID: 57627
+[26-Apr-2025 08:53:39 UTC] callback.php - Kontrol edilen settings.json yolu: /home/kap192ustacom/sevkiyatbul.com.tr/57627/json/settings.json
+[26-Apr-2025 08:53:39 UTC] callback.php - settings.json var mı: Evet
+[26-Apr-2025 08:53:39 UTC] callback.php - settings.json içeriği: Array
+(
+    [theme_color] => #ff6600
+    [header_text] => 
+    [footer_text] => 
+    [font_size] => 16
+    [vtc_id] => 57627
+    [trucky_api_key] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55X2lkIjoxNDU3Nn0.j2HXq8jui4Yp2_kkSa0fb7Dpmj-vHF_8G4KsAudWwbc
+    [trucky_company_id] => 14576
+)
+
+[26-Apr-2025 12:53:14 UTC] index.php - Oluşturulan State: 6fb9046e3c9b4640a4273b39b247e3a7
+[26-Apr-2025 12:53:14 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=6fb9046e3c9b4640a4273b39b247e3a7
+[26-Apr-2025 12:53:15 UTC] index.php - Oluşturulan State: f21fa36ee6b8b4cdf4653ccbd82832a2
+[26-Apr-2025 12:53:15 UTC] index.php - Auth URL: https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fsevkiyatbul.com.tr%2Fcallback.php&openid.realm=https%3A%2F%2Fsevkiyatbul.com.tr&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&state=f21fa36ee6b8b4cdf4653ccbd82832a2
